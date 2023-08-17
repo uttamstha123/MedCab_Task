@@ -64,6 +64,9 @@ body {
 .accordion-button:not(.collapsed)::after {
   background-image: var(--accordion-background-url);
 }
+.accordion-item{
+    margin-bottom: 1.5rem;
+}
 
 .accordion-header .ques {
   background: var(--primary-heading-clr);
