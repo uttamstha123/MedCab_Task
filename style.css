@@ -84,3 +84,19 @@ body {
     font-size: 55%;
   }
 }
+
+@media (min-width: 460px){
+    .section-one{
+        padding: 2rem 3rem;
+    }
+}
+@media (min-width: 640px){
+    .section-one{
+        padding: 4rem 6rem;
+    }
+}
+@media (min-width: 980px){
+    .section-one{
+        padding: 8rem 12rem;
+    }
+}
